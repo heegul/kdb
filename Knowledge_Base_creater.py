@@ -3,7 +3,7 @@ import json
 import sys
 
 # Your API key here
-API_KEY = 'AIzaSyCxw-RJG5VuA_xMYviRyeC-7zHDGHsgd-c'
+API_KEY =
 
 # Your API key here
 OPENAI_API_KEY = 
