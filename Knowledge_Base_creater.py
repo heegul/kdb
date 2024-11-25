@@ -6,7 +6,7 @@ import sys
 API_KEY = 'AIzaSyCxw-RJG5VuA_xMYviRyeC-7zHDGHsgd-c'
 
 # Your API key here
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 
 
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
